@@ -1,4 +1,5 @@
-# Bank Loan Data Analysis: Unveiling Trends and Insights
+# Bank Loan Data Analysis: Unveiling Trends and Insights( SQL Project )
+
 This project delves into a bank loan data set to gain valuable insights into loan application trends, performance, and borrower characteristics. It explores various aspects, including:
 
 Overall Loan Activity:
