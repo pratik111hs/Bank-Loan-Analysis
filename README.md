@@ -1,4 +1,4 @@
-# Bank Loan Data Analysis: Unveiling Trends and Insights( SQL Project )
+# Bank Loan Data Analysis: Unveiling Trends and Insights( SQL Project + Excel Dashboard)
 
 This project delves into a bank loan data set to gain valuable insights into loan application trends, performance, and borrower characteristics.
 It includes SQL QUERY + WORD Document For To record Query and its result + Excel Dynamic Dashboard For more clear Visual Representation,
